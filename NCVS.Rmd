@@ -13,10 +13,10 @@ library(naniar)
 ###Loading Data & Codebooks
 ```{r include=FALSE}
 #Windows
-load("E:/Repository/NCVS/data/36834-0003-Data.rda")
+#load("E:/Repository/NCVS/data/36834-0003-Data.rda")
 
 #Mac
-#load("~/desktop/Repository/NCVS/data/36834-0003-Data.rda")
+load("~/desktop/Repository/NCVS/data/36834-0003-Data.rda")
 
 ncvs.raw <- da36834.0003
 
